@@ -1,5 +1,10 @@
 .env
-vendor/
-database/*.sqlite*
-node_modules/
-public/build/
+/vendor/
+/database/*.sqlite*
+/node_modules/
+/public/build/
+
+/storage/*.key
+/storage/app/*
+/storage/framework/*
+/storage/logs/*
