@@ -5,6 +5,7 @@
 	</head>
 	<body>
 		<h1 class="text-3xl">Home</h1>
+		<p>Laravel + Vite + Tailwind + Ollama</p>
 		<!-- <a href="/pengunjung">Para Tamu</a> -->
 		<a href="/pengunjung/tambah" class="text-blue-600 underline hover:text-blue-800 hover:no-underline transition-colors">Sampurasun</a>
 		<br/><br/>
